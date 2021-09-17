@@ -1,0 +1,74 @@
+﻿@using DoAnWeb_QuanLyMatHangDienMay.Models;
+@using DoAnWeb_QuanLyMatHangDienMay.Controllers;
+@{
+    ViewBag.Title = "TuVan";
+    Layout = "~/Views/Shared/_LayoutQuanLy.cshtml";
+    List<TieuChi> ds = ViewBag.TieuChi;
+}
+@model List<LOAITHIETBI>
+    
+
+<h2 style="text-transform: uppercase; color: red">Tư vấn sản phẩm</h2>
+<div class="container-fluid">
+    <label class="modal-title">Chọn loại thiết bị bạn muốn được tư vấn</label>
+    <select class="ml-3" id="selected" onchange="selectChange()">
+        @foreach (LOAITHIETBI ltb in Model)
+        {
+            <option value="@ltb.TENTHIETBI">@ltb.TENTHIETBI</option>
+        }
+    </select>
+    <p id="messeag_show" style="color:red"></p>
+
+    <script language="javascript">
+        function selectChange() {
+            var selected = document.getElementById("selected").value;
+            var messege = document.getElementById("messeag_show");
+            messege.innerHTML = selected;
+
+        }
+    </script>
+    <div>
+
+        @Html.Action("hienThiCacTieuChi", "Home", new { @pName = "Máy lạnh" })
+    </div>
+
+    <div class="row mt-5">
+        <div class="col-md-3">
+            <p>Loại tủ</p>
+            <div>
+                <input type="radio" name="CaHoc" value="Morning (2-4-6)" /> Morning (2-4-6) <br />
+                <input type="radio" name="CaHoc" value="Afternoon (2-4-6)" /> Afternoon (2-4-6) <br />
+                <input type="radio" name="CaHoc" value="Morning (3-5-7)" /> Morning (3-5-7) <br />
+                <input type="radio" name="CaHoc" value="Afternoon (3-5-7)" /> Afternoon (3-5-7) <br />
+            </div>
+        </div>
+        <div class="col-md-3">
+            <p>Loại tủ</p>
+            <div>
+                <input type="radio" name="CaHoc" value="Morning (2-4-6)" /> Morning (2-4-6) <br />
+                <input type="radio" name="CaHoc" value="Afternoon (2-4-6)" /> Afternoon (2-4-6) <br />
+                <input type="radio" name="CaHoc" value="Morning (3-5-7)" /> Morning (3-5-7) <br />
+                <input type="radio" name="CaHoc" value="Afternoon (3-5-7)" /> Afternoon (3-5-7) <br />
+            </div>
+        </div>
+        <div class="col-md-3">
+            <p>Loại tủ</p>
+            <div>
+                <input type="radio" name="CaHoc" value="Morning (2-4-6)" /> Morning (2-4-6) <br />
+                <input type="radio" name="CaHoc" value="Afternoon (2-4-6)" /> Afternoon (2-4-6) <br />
+                <input type="radio" name="CaHoc" value="Morning (3-5-7)" /> Morning (3-5-7) <br />
+                <input type="radio" name="CaHoc" value="Afternoon (3-5-7)" /> Afternoon (3-5-7) <br />
+            </div>
+        </div>
+        <div class="col-md-3">
+            <p>Loại tủ</p>
+            <div>
+                <input type="radio" name="CaHoc" value="Morning (2-4-6)" /> Morning (2-4-6) <br />
+                <input type="radio" name="CaHoc" value="Afternoon (2-4-6)" /> Afternoon (2-4-6) <br />
+                <input type="radio" name="CaHoc" value="Morning (3-5-7)" /> Morning (3-5-7) <br />
+                <input type="radio" name="CaHoc" value="Afternoon (3-5-7)" /> Afternoon (3-5-7) <br />
+            </div>
+        </div>
+    </div>
+    
+</div>

@@ -1,0 +1,332 @@
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DoAn_PTPMUDTM.exe.config
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DoAn_PTPMUDTM.exe
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DoAn_PTPMUDTM.pdb
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\BLL_DAL.dll
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\txtChiNhapSo.dll
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\txtChiNhapSoThuc.dll
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\txtChiNhapSoThuc.pdb
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\txtChiNhapSo.pdb
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\BLL_DAL.pdb
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\BLL_DAL.dll.config
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.csproj.AssemblyReference.cache
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.frmCauHinh.resources
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.frmChucVu.resources
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.frmDangNhap.resources
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.frmDiemDanh.resources
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.frmDoiMatKhau.resources
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.frmKhachHang.resources
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.frmLoaiKhachHang.resources
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.frmMain.resources
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.frmLoaiThietBi.resources
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.frmNhapHang.resources
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.frmNhaSanXuat.resources
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.frmQuanLyNguoiDung.resources
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.frmSanPham.resources
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.frmTaoTaiKhoan.resources
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.frmThongKeDoanhThu.resources
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.frmThongKePhieuNhap.resources
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.frmThongTin.resources
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.frmTinhLuongNhanVien.resources
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.Properties.Resources.resources
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.csproj.GenerateResource.cache
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.csproj.CoreCompileInputs.cache
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.csproj.CopyComplete
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.exe
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.pdb
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.frmNhanVien.resources
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DoAn_PTPMUDTM.exe.config
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DoAn_PTPMUDTM.exe
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DoAn_PTPMUDTM.pdb
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\BLL_DAL.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\txtChiNhapSo.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\txtChiNhapSoThuc.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\txtChiNhapSoThuc.pdb
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\txtChiNhapSo.pdb
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\BLL_DAL.pdb
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\BLL_DAL.dll.config
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.csproj.AssemblyReference.cache
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.frmCauHinh.resources
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.frmChucVu.resources
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.frmDangNhap.resources
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.frmDiemDanh.resources
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.frmDoiMatKhau.resources
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.frmKhachHang.resources
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.frmLoaiKhachHang.resources
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.frmMain.resources
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.frmLoaiThietBi.resources
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.frmNhanVien.resources
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.frmNhapHang.resources
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.frmNhaSanXuat.resources
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.frmQuanLyNguoiDung.resources
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.frmSanPham.resources
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.frmTaoTaiKhoan.resources
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.frmThanhToan.resources
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.frmThongKeDoanhThu.resources
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.frmThongKePhieuNhap.resources
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.frmThongTin.resources
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.frmTinhLuongNhanVien.resources
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.Properties.Resources.resources
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.csproj.GenerateResource.cache
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.csproj.CoreCompileInputs.cache
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.csproj.CopyComplete
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.exe
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.pdb
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Data.v21.1.dll
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Utils.v21.1.dll
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Data.v21.1.xml
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Utils.v21.1.xml
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.frmBaoHanh.resources
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.exe.licenses
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Data.v21.1.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Utils.v21.1.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.frmBaoHanh.resources
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.exe.licenses
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Charts.v21.1.Core.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.CodeParser.v21.1.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Data.v21.1.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.DataAccess.v21.1.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Office.v21.1.Core.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.PivotGrid.v21.1.Core.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.RichEdit.v21.1.Export.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Utils.v21.1.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Utils.v21.1.UI.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Xpo.v21.1.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.XtraCharts.v21.1.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.XtraGauges.v21.1.Core.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.XtraPrinting.v21.1.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.XtraReports.v21.1.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.XtraReports.v21.1.Extensions.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.XtraTreeList.v21.1.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.XtraBars.v21.1.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.XtraLayout.v21.1.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.XtraRichEdit.v21.1.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.XtraVerticalGrid.v21.1.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.DataVisualization.v21.1.Core.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.DataAccess.v21.1.UI.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.XtraGrid.v21.1.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.XtraNavBar.v21.1.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.XtraCharts.v21.1.Wizard.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.XtraPivotGrid.v21.1.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.XtraCharts.v21.1.Extensions.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Images.v21.1.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.XtraDiagram.v21.1.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Diagram.v21.1.Core.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.DataAccess.v21.1.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Office.v21.1.Core.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.PivotGrid.v21.1.Core.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Utils.v21.1.UI.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Xpo.v21.1.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.XtraCharts.v21.1.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.XtraGauges.v21.1.Core.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.XtraReports.v21.1.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.XtraReports.v21.1.Extensions.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.XtraBars.v21.1.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.XtraRichEdit.v21.1.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.XtraVerticalGrid.v21.1.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.DataAccess.v21.1.UI.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.XtraNavBar.v21.1.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.XtraCharts.v21.1.Wizard.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.XtraPivotGrid.v21.1.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.XtraDiagram.v21.1.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Diagram.v21.1.Core.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\de\DevExpress.DataAccess.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\es\DevExpress.DataAccess.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ja\DevExpress.DataAccess.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ru\DevExpress.DataAccess.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\de\DevExpress.PivotGrid.v21.1.Core.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\es\DevExpress.PivotGrid.v21.1.Core.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ja\DevExpress.PivotGrid.v21.1.Core.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ru\DevExpress.PivotGrid.v21.1.Core.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\de\DevExpress.Utils.v21.1.UI.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\es\DevExpress.Utils.v21.1.UI.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ja\DevExpress.Utils.v21.1.UI.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ru\DevExpress.Utils.v21.1.UI.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\de\DevExpress.Xpo.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\es\DevExpress.Xpo.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ja\DevExpress.Xpo.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ru\DevExpress.Xpo.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\de\DevExpress.XtraCharts.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\es\DevExpress.XtraCharts.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ja\DevExpress.XtraCharts.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ru\DevExpress.XtraCharts.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\de\DevExpress.XtraGauges.v21.1.Core.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\es\DevExpress.XtraGauges.v21.1.Core.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ja\DevExpress.XtraGauges.v21.1.Core.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ru\DevExpress.XtraGauges.v21.1.Core.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\de\DevExpress.XtraPrinting.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\es\DevExpress.XtraPrinting.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ja\DevExpress.XtraPrinting.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ru\DevExpress.XtraPrinting.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\de\DevExpress.XtraReports.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\es\DevExpress.XtraReports.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ja\DevExpress.XtraReports.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ru\DevExpress.XtraReports.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\de\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\es\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ja\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ru\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\de\DevExpress.XtraTreeList.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\es\DevExpress.XtraTreeList.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ja\DevExpress.XtraTreeList.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ru\DevExpress.XtraTreeList.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\de\DevExpress.XtraLayout.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\es\DevExpress.XtraLayout.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ja\DevExpress.XtraLayout.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ru\DevExpress.XtraLayout.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\de\DevExpress.XtraRichEdit.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\es\DevExpress.XtraRichEdit.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ja\DevExpress.XtraRichEdit.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ru\DevExpress.XtraRichEdit.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\de\DevExpress.DataAccess.v21.1.UI.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\es\DevExpress.DataAccess.v21.1.UI.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ja\DevExpress.DataAccess.v21.1.UI.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ru\DevExpress.DataAccess.v21.1.UI.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\de\DevExpress.XtraGrid.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\es\DevExpress.XtraGrid.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ja\DevExpress.XtraGrid.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ru\DevExpress.XtraGrid.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\de\DevExpress.XtraNavBar.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\es\DevExpress.XtraNavBar.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ja\DevExpress.XtraNavBar.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ru\DevExpress.XtraNavBar.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\de\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\es\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ja\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ru\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\de\DevExpress.XtraPivotGrid.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\es\DevExpress.XtraPivotGrid.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ja\DevExpress.XtraPivotGrid.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ru\DevExpress.XtraPivotGrid.v21.1.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\de\DevExpress.Diagram.v21.1.Core.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\es\DevExpress.Diagram.v21.1.Core.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ja\DevExpress.Diagram.v21.1.Core.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ru\DevExpress.Diagram.v21.1.Core.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.Report.ReportHoaDon.resources
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.Report.ReportPhieuNhap.resources
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.frmXemHoaDon.resources
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\obj\Debug\DoAn_PTPMUDTM.frmTuVanSanPham.resources
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.ExpressApp.v19.2.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Data.v19.2.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Utils.v19.2.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Images.v19.2.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.ExpressApp.v19.2.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Data.v19.2.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\de\DevExpress.ExpressApp.v19.2.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\es\DevExpress.ExpressApp.v19.2.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ja\DevExpress.ExpressApp.v19.2.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ru\DevExpress.ExpressApp.v19.2.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll

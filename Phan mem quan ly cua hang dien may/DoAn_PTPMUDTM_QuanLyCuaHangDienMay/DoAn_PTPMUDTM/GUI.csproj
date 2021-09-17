@@ -1,0 +1,821 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{59881517-ADD4-4AA1-8C98-3C606624A7FC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DoAn_PTPMUDTM</RootNamespace>
+    <AssemblyName>DoAn_PTPMUDTM</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BLL_DAL, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\BLL_DAL\bin\Debug\BLL_DAL.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Charts.v21.1.Core, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.CodeParser.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.Desktop.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.DataAccess.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Office.v21.1.Core, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Pdf.v21.1.Core, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v21.1.Core, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v21.1.Core, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.RichEdit.v21.1.Core, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v21.1.Export, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v21.1.Core, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v21.1.UI, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Xpo.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGauges.v21.1.Core, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraReports.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v21.1.Extensions, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmBaoHanh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBaoHanh.Designer.cs">
+      <DependentUpon>frmBaoHanh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCauHinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCauHinh.Designer.cs">
+      <DependentUpon>frmCauHinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChucVu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChucVu.Designer.cs">
+      <DependentUpon>frmChucVu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDangNhap.Designer.cs">
+      <DependentUpon>frmDangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDiemDanh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDiemDanh.Designer.cs">
+      <DependentUpon>frmDiemDanh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDoiMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDoiMatKhau.Designer.cs">
+      <DependentUpon>frmDoiMatKhau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKhachHang.Designer.cs">
+      <DependentUpon>frmKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLoaiKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLoaiKhachHang.Designer.cs">
+      <DependentUpon>frmLoaiKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLoaiThietBi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLoaiThietBi.Designer.cs">
+      <DependentUpon>frmLoaiThietBi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNhanVien.Designer.cs">
+      <DependentUpon>frmNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNhapHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNhapHang.Designer.cs">
+      <DependentUpon>frmNhapHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNhaSanXuat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNhaSanXuat.Designer.cs">
+      <DependentUpon>frmNhaSanXuat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQuanLyNguoiDung.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQuanLyNguoiDung.Designer.cs">
+      <DependentUpon>frmQuanLyNguoiDung.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSanPham.Designer.cs">
+      <DependentUpon>frmSanPham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTaoTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTaoTaiKhoan.Designer.cs">
+      <DependentUpon>frmTaoTaiKhoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmThanhToan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThanhToan.Designer.cs">
+      <DependentUpon>frmThanhToan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmThongKeDoanhThu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThongKeDoanhThu.Designer.cs">
+      <DependentUpon>frmThongKeDoanhThu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmThongKePhieuNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThongKePhieuNhap.Designer.cs">
+      <DependentUpon>frmThongKePhieuNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmThongTin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThongTin.Designer.cs">
+      <DependentUpon>frmThongTin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTinhLuongNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTinhLuongNhanVien.Designer.cs">
+      <DependentUpon>frmTinhLuongNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTuVanSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTuVanSanPham.Designer.cs">
+      <DependentUpon>frmTuVanSanPham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmXacNhanHoaDonOnline.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmXacNhanHoaDonOnline.Designer.cs">
+      <DependentUpon>frmXacNhanHoaDonOnline.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmXemHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmXemHoaDon.Designer.cs">
+      <DependentUpon>frmXemHoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Report\ReportHoaDon.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\ReportHoaDon.Designer.cs">
+      <DependentUpon>ReportHoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\ReportPhieuNhap.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\ReportPhieuNhap.Designer.cs">
+      <DependentUpon>ReportPhieuNhap.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frmBaoHanh.resx">
+      <DependentUpon>frmBaoHanh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCauHinh.resx">
+      <DependentUpon>frmCauHinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChucVu.resx">
+      <DependentUpon>frmChucVu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDangNhap.resx">
+      <DependentUpon>frmDangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDiemDanh.resx">
+      <DependentUpon>frmDiemDanh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDoiMatKhau.resx">
+      <DependentUpon>frmDoiMatKhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKhachHang.resx">
+      <DependentUpon>frmKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLoaiKhachHang.resx">
+      <DependentUpon>frmLoaiKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLoaiThietBi.resx">
+      <DependentUpon>frmLoaiThietBi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNhanVien.resx">
+      <DependentUpon>frmNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNhapHang.resx">
+      <DependentUpon>frmNhapHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNhaSanXuat.resx">
+      <DependentUpon>frmNhaSanXuat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQuanLyNguoiDung.resx">
+      <DependentUpon>frmQuanLyNguoiDung.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSanPham.resx">
+      <DependentUpon>frmSanPham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTaoTaiKhoan.resx">
+      <DependentUpon>frmTaoTaiKhoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThanhToan.resx">
+      <DependentUpon>frmThanhToan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThongKeDoanhThu.resx">
+      <DependentUpon>frmThongKeDoanhThu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThongKePhieuNhap.resx">
+      <DependentUpon>frmThongKePhieuNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThongTin.resx">
+      <DependentUpon>frmThongTin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTinhLuongNhanVien.resx">
+      <DependentUpon>frmTinhLuongNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTuVanSanPham.resx">
+      <DependentUpon>frmTuVanSanPham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmXacNhanHoaDonOnline.resx">
+      <DependentUpon>frmXacNhanHoaDonOnline.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmXemHoaDon.resx">
+      <DependentUpon>frmXemHoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Report\ReportHoaDon.resx">
+      <DependentUpon>ReportHoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\ReportPhieuNhap.resx">
+      <DependentUpon>ReportPhieuNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Images\anhPhong.jpg" />
+    <Content Include="Images\background_Karaoke.png" />
+    <Content Include="Images\btnAdd.png" />
+    <Content Include="Images\btnAddUser.png" />
+    <Content Include="Images\btnCategory.png" />
+    <Content Include="Images\btnChamCong.png" />
+    <Content Include="Images\btnChucVu.png" />
+    <Content Include="Images\btnClose.png" />
+    <Content Include="Images\btnDangKy.png" />
+    <Content Include="Images\btnDangNhap.png" />
+    <Content Include="Images\btnDangXuat.png" />
+    <Content Include="Images\btnDatPhong.png" />
+    <Content Include="Images\btnDelete.png" />
+    <Content Include="Images\btnDichVu.png" />
+    <Content Include="Images\btnDoanhThu.png" />
+    <Content Include="Images\btnDoanhThuNgay.png" />
+    <Content Include="Images\btnDoanhThuThang.png" />
+    <Content Include="Images\btnDoanhThuTuan.png" />
+    <Content Include="Images\btnDoiMatKhau.png" />
+    <Content Include="Images\btnEdit.png" />
+    <Content Include="Images\btnEditUser.png" />
+    <Content Include="Images\btnFixing.jpg" />
+    <Content Include="Images\btnHoaDon.png" />
+    <Content Include="Images\btnHoaDonNhap.png" />
+    <Content Include="Images\btnHuy.png" />
+    <Content Include="Images\btnInfo.png" />
+    <Content Include="Images\btnKhachHang.png" />
+    <Content Include="Images\btnKho.png" />
+    <Content Include="Images\btnLoaiKhachHang.png" />
+    <Content Include="Images\btnLoaiPhong.png" />
+    <Content Include="Images\btnLoaiSanPham.jpg" />
+    <Content Include="Images\btnLock.png" />
+    <Content Include="Images\btnLuongNV.png" />
+    <Content Include="Images\btnManage.png" />
+    <Content Include="Images\btnMark.png" />
+    <Content Include="Images\btnMenu.png" />
+    <Content Include="Images\btnNhaCungCap.png" />
+    <Content Include="Images\btnNhanVien.png" />
+    <Content Include="Images\btnNhapHang.png" />
+    <Content Include="Images\btnOut.png" />
+    <Content Include="Images\btnPhanQuyen.png" />
+    <Content Include="Images\btnPhong.png" />
+    <Content Include="Images\btnQLDichVu.png" />
+    <Content Include="Images\btnQLUser.png" />
+    <Content Include="Images\btnRemoveUser.png" />
+    <Content Include="Images\btnSanPham.jpg" />
+    <Content Include="Images\btnSanPhamMoi.png" />
+    <Content Include="Images\btnStatistics.png" />
+    <Content Include="Images\btnSystem.png" />
+    <Content Include="Images\btnTaoTaiKhoan.png" />
+    <Content Include="Images\btnThanhToan.png" />
+    <Content Include="Images\btnTimPhong.png" />
+    <Content Include="Images\btnTinhTien.png" />
+    <Content Include="Images\fileprint-11 %28Custom%29.png" />
+    <Content Include="Images\HinhSP\265NC1-1.jpg" />
+    <Content Include="Images\HinhSP\265NC1-2.jpg" />
+    <Content Include="Images\HinhSP\265NC1-3.jpg" />
+    <Content Include="Images\HinhSP\265NC1.jpg" />
+    <Content Include="Images\HinhSP\266NC2-1.jpg" />
+    <Content Include="Images\HinhSP\266NC2-2.jpg" />
+    <Content Include="Images\HinhSP\266NC2-3.jpg" />
+    <Content Include="Images\HinhSP\266NC2.jpg" />
+    <Content Include="Images\HinhSP\328NC2-1.jpg" />
+    <Content Include="Images\HinhSP\328NC2-2.jpg" />
+    <Content Include="Images\HinhSP\328NC2-3.jpg" />
+    <Content Include="Images\HinhSP\328NC2.jpg" />
+    <Content Include="Images\HinhSP\400DM2-1.jpg" />
+    <Content Include="Images\HinhSP\400DM2-2.jpg" />
+    <Content Include="Images\HinhSP\400DM2-3.jpg" />
+    <Content Include="Images\HinhSP\400DM2.jpg" />
+    <Content Include="Images\HinhSP\55NANO86TNA-1.jpg" />
+    <Content Include="Images\HinhSP\55NANO86TNA-2.jpg" />
+    <Content Include="Images\HinhSP\55NANO86TNA-3.jpg" />
+    <Content Include="Images\HinhSP\55NANO86TNA.jpg" />
+    <Content Include="Images\HinhSP\809C1-1.jpg" />
+    <Content Include="Images\HinhSP\809C1-2.jpg" />
+    <Content Include="Images\HinhSP\809C1-3.jpg" />
+    <Content Include="Images\HinhSP\809C1.jpg" />
+    <Content Include="Images\HinhSP\88ZXPTA-1.jpg" />
+    <Content Include="Images\HinhSP\88ZXPTA-2.jpg" />
+    <Content Include="Images\HinhSP\88ZXPTA-3.jpg" />
+    <Content Include="Images\HinhSP\88ZXPTA.jpg" />
+    <Content Include="Images\HinhSP\anhPhong.jpg" />
+    <Content Include="Images\HinhSP\APB9981-1.jpg" />
+    <Content Include="Images\HinhSP\APB9981-2.jpg" />
+    <Content Include="Images\HinhSP\APB9981-3.jpg" />
+    <Content Include="Images\HinhSP\APB9981.jpg" />
+    <Content Include="Images\HinhSP\APB9982-1.jpg" />
+    <Content Include="Images\HinhSP\APB9982-2.jpg" />
+    <Content Include="Images\HinhSP\APB9982-3.jpg" />
+    <Content Include="Images\HinhSP\APB9982.jpg" />
+    <Content Include="Images\HinhSP\APNQ48GT3E4-1.jpg" />
+    <Content Include="Images\HinhSP\APNQ48GT3E4-2.jpg" />
+    <Content Include="Images\HinhSP\APNQ48GT3E4-3.jpg" />
+    <Content Include="Images\HinhSP\APNQ48GT3E4.jpg" />
+    <Content Include="Images\HinhSP\AR10RYFTAURNSV-1.jpg" />
+    <Content Include="Images\HinhSP\AR10RYFTAURNSV-2.jpg" />
+    <Content Include="Images\HinhSP\AR10RYFTAURNSV-3.jpg" />
+    <Content Include="Images\HinhSP\AR10RYFTAURNSV.jpg" />
+    <Content Include="Images\HinhSP\AW-A800SV WB-1.jpg" />
+    <Content Include="Images\HinhSP\AW-A800SV WB-2.jpg" />
+    <Content Include="Images\HinhSP\AW-A800SV WB-3.jpg" />
+    <Content Include="Images\HinhSP\AW-A800SV WB.jpg" />
+    <Content Include="Images\HinhSP\BDV-E6100-1.jpg" />
+    <Content Include="Images\HinhSP\BDV-E6100-2.jpg" />
+    <Content Include="Images\HinhSP\BDV-E6100-3.jpg" />
+    <Content Include="Images\HinhSP\BDV-E6100.jpg" />
+    <Content Include="Images\HinhSP\charlotte.jpg" />
+    <Content Include="Images\HinhSP\CUCS-WPU12WKH-8M-1.jpg" />
+    <Content Include="Images\HinhSP\CUCS-WPU12WKH-8M-2.jpg" />
+    <Content Include="Images\HinhSP\CUCS-WPU12WKH-8M-3.jpg" />
+    <Content Include="Images\HinhSP\CUCS-WPU12WKH-8M.jpg" />
+    <Content Include="Images\HinhSP\CUCS-YZ18UKH-8-1.jpg" />
+    <Content Include="Images\HinhSP\CUCS-YZ18UKH-8-2.jpg" />
+    <Content Include="Images\HinhSP\CUCS-YZ18UKH-8-3.jpg" />
+    <Content Include="Images\HinhSP\CUCS-YZ18UKH-8.jpg" />
+    <Content Include="Images\HinhSP\CUCSN9WKH8M-1.jpg" />
+    <Content Include="Images\HinhSP\CUCSN9WKH8M-2.jpg" />
+    <Content Include="Images\HinhSP\CUCSN9WKH8M-3.jpg" />
+    <Content Include="Images\HinhSP\CUCSN9WKH8M.jpg" />
+    <Content Include="Images\HinhSP\DF60R8600CGSV-1.jpg" />
+    <Content Include="Images\HinhSP\DF60R8600CGSV-2.jpg" />
+    <Content Include="Images\HinhSP\DF60R8600CGSV-3.jpg" />
+    <Content Include="Images\HinhSP\DF60R8600CGSV.jpg" />
+    <Content Include="Images\HinhSP\DH-3RL2VH-1.jpg" />
+    <Content Include="Images\HinhSP\DH-3RL2VH-2.jpg" />
+    <Content Include="Images\HinhSP\DH-3RL2VH-3.jpg" />
+    <Content Include="Images\HinhSP\DH-3RL2VH.jpg" />
+    <Content Include="Images\HinhSP\DH-4MP1VW-1.jpg" />
+    <Content Include="Images\HinhSP\DH-4MP1VW-2.jpg" />
+    <Content Include="Images\HinhSP\DH-4MP1VW-3.jpg" />
+    <Content Include="Images\HinhSP\DH-4MP1VW.jpg" />
+    <Content Include="Images\HinhSP\DH-4NP1VS-1.jpg" />
+    <Content Include="Images\HinhSP\DH-4NP1VS-2.jpg" />
+    <Content Include="Images\HinhSP\DH-4NP1VS-3.jpg" />
+    <Content Include="Images\HinhSP\DH-4NP1VS.jpg" />
+    <Content Include="Images\HinhSP\DH-4NTP1VM-1.jpg" />
+    <Content Include="Images\HinhSP\DH-4NTP1VM-2.jpg" />
+    <Content Include="Images\HinhSP\DH-4NTP1VM-3.jpg" />
+    <Content Include="Images\HinhSP\DH-4NTP1VM.jpg" />
+    <Content Include="Images\HinhSP\DV90M5200QWSV-1.jpg" />
+    <Content Include="Images\HinhSP\DV90M5200QWSV-2.jpg" />
+    <Content Include="Images\HinhSP\DV90M5200QWSV-3.jpg" />
+    <Content Include="Images\HinhSP\DV90M5200QWSV.jpg" />
+    <Content Include="Images\HinhSP\FG1405H3W1-1.jpg" />
+    <Content Include="Images\HinhSP\FG1405H3W1-2.jpg" />
+    <Content Include="Images\HinhSP\FG1405H3W1-3.jpg" />
+    <Content Include="Images\HinhSP\FG1405H3W1.jpg" />
+    <Content Include="Images\HinhSP\FV1408G4W-1.jpg" />
+    <Content Include="Images\HinhSP\FV1408G4W-2.jpg" />
+    <Content Include="Images\HinhSP\FV1408G4W-3.jpg" />
+    <Content Include="Images\HinhSP\FV1408G4W.jpg" />
+    <Content Include="Images\HinhSP\FV1409G4V-1.jpg" />
+    <Content Include="Images\HinhSP\FV1409G4V-2.jpg" />
+    <Content Include="Images\HinhSP\FV1409G4V-3.jpg" />
+    <Content Include="Images\HinhSP\FV1409G4V.jpg" />
+    <Content Include="Images\HinhSP\FV1450H2B-1.jpg" />
+    <Content Include="Images\HinhSP\FV1450H2B-2.jpg" />
+    <Content Include="Images\HinhSP\FV1450H2B-3.jpg" />
+    <Content Include="Images\HinhSP\FV1450H2B.jpg" />
+    <Content Include="Images\HinhSP\GD1414-1.jpg" />
+    <Content Include="Images\HinhSP\GD1414-2.jpg" />
+    <Content Include="Images\HinhSP\GD1414-3.jpg" />
+    <Content Include="Images\HinhSP\GD1414.jpg" />
+    <Content Include="Images\HinhSP\GD1616-1.jpg" />
+    <Content Include="Images\HinhSP\GD1616-2.jpg" />
+    <Content Include="Images\HinhSP\GD1616-3.jpg" />
+    <Content Include="Images\HinhSP\GD1616.jpg" />
+    <Content Include="Images\HinhSP\GD1818-1.jpg" />
+    <Content Include="Images\HinhSP\GD1818-2.jpg" />
+    <Content Include="Images\HinhSP\GD1818-3.jpg" />
+    <Content Include="Images\HinhSP\GD1818.jpg" />
+    <Content Include="Images\HinhSP\GN-F304PS-1.jpg" />
+    <Content Include="Images\HinhSP\GN-F304PS-2.jpg" />
+    <Content Include="Images\HinhSP\GN-F304PS-3.jpg" />
+    <Content Include="Images\HinhSP\GN-F304PS.jpg" />
+    <Content Include="Images\HinhSP\GN-F304WB-1.jpg" />
+    <Content Include="Images\HinhSP\GN-F304WB-2.jpg" />
+    <Content Include="Images\HinhSP\GN-F304WB-3.jpg" />
+    <Content Include="Images\HinhSP\GN-F304WB.jpg" />
+    <Content Include="Images\HinhSP\GN-L205S-1.jpg" />
+    <Content Include="Images\HinhSP\GN-L205S-2.jpg" />
+    <Content Include="Images\HinhSP\GN-L205S-3.jpg" />
+    <Content Include="Images\HinhSP\GN-L205S.jpg" />
+    <Content Include="Images\HinhSP\GR-B22VU UKG-1.jpg" />
+    <Content Include="Images\HinhSP\GR-B22VU UKG-2.jpg" />
+    <Content Include="Images\HinhSP\GR-B22VU UKG-3.jpg" />
+    <Content Include="Images\HinhSP\GR-B22VU UKG.jpg" />
+    <Content Include="Images\HinhSP\GR-B247WB-1.jpg" />
+    <Content Include="Images\HinhSP\GR-B247WB-2.jpg" />
+    <Content Include="Images\HinhSP\GR-B247WB-3.jpg" />
+    <Content Include="Images\HinhSP\GR-B247WB.jpg" />
+    <Content Include="Images\HinhSP\GR-RF610WE-PGV%2822%29-XK-1.jpg" />
+    <Content Include="Images\HinhSP\GR-RF610WE-PGV%2822%29-XK-2.jpg" />
+    <Content Include="Images\HinhSP\GR-RF610WE-PGV%2822%29-XK-3.jpg" />
+    <Content Include="Images\HinhSP\GR-RF610WE-PGV%2822%29-XK.jpg" />
+    <Content Include="Images\HinhSP\hinh1-1.jpg" />
+    <Content Include="Images\HinhSP\hinh1-2.jpg" />
+    <Content Include="Images\HinhSP\hinh1-3.jpg" />
+    <Content Include="Images\HinhSP\hinh1.jpg" />
+    <Content Include="Images\HinhSP\hinh2-1.jpg" />
+    <Content Include="Images\HinhSP\hinh2-2.jpg" />
+    <Content Include="Images\HinhSP\hinh2-3.jpg" />
+    <Content Include="Images\HinhSP\hinh2-4.jpg" />
+    <Content Include="Images\HinhSP\hinh2.jpg" />
+    <Content Include="Images\HinhSP\hinh3-1.jpg" />
+    <Content Include="Images\HinhSP\hinh3-2.jpg" />
+    <Content Include="Images\HinhSP\hinh3-3.jpg" />
+    <Content Include="Images\HinhSP\hinh3.jpg" />
+    <Content Include="Images\HinhSP\hinh4-1.jpg" />
+    <Content Include="Images\HinhSP\hinh4-2.jpg" />
+    <Content Include="Images\HinhSP\hinh4-3.jpg" />
+    <Content Include="Images\HinhSP\hinh4.jpg" />
+    <Content Include="Images\HinhSP\hinh5-1.jpg" />
+    <Content Include="Images\HinhSP\hinh5-2.jpg" />
+    <Content Include="Images\HinhSP\hinh5-3.jpg" />
+    <Content Include="Images\HinhSP\hinh5.jpg" />
+    <Content Include="Images\HinhSP\hinh6-1.jpg" />
+    <Content Include="Images\HinhSP\hinh6-2.jpg" />
+    <Content Include="Images\HinhSP\hinh6-3.jpg" />
+    <Content Include="Images\HinhSP\hinh6-4.jpg" />
+    <Content Include="Images\HinhSP\hinh6.jpg" />
+    <Content Include="Images\HinhSP\HinhIndex-1.png" />
+    <Content Include="Images\HinhSP\HinhIndex-2.PNG" />
+    <Content Include="Images\HinhSP\HinhIndex-3.png" />
+    <Content Include="Images\HinhSP\HT- G700-1.jpg" />
+    <Content Include="Images\HinhSP\HT- G700-2.jpg" />
+    <Content Include="Images\HinhSP\HT- G700-3.jpg" />
+    <Content Include="Images\HinhSP\HT- G700.jpg" />
+    <Content Include="Images\HinhSP\HT-S100F-1.jpg" />
+    <Content Include="Images\HinhSP\HT-S100F-2.jpg" />
+    <Content Include="Images\HinhSP\HT-S100F-3.jpg" />
+    <Content Include="Images\HinhSP\HT-S100F.jpg" />
+    <Content Include="Images\HinhSP\HW-K350-1.jpg" />
+    <Content Include="Images\HinhSP\HW-K350-2.jpg" />
+    <Content Include="Images\HinhSP\HW-K350-3.jpg" />
+    <Content Include="Images\HinhSP\HW-K350.jpg" />
+    <Content Include="Images\HinhSP\HW-Q70R-1.jpg" />
+    <Content Include="Images\HinhSP\HW-Q70R-2.jpg" />
+    <Content Include="Images\HinhSP\HW-Q70R-3.jpg" />
+    <Content Include="Images\HinhSP\HW-Q70R.jpg" />
+    <Content Include="Images\HinhSP\HW-Q950T-1.jpg" />
+    <Content Include="Images\HinhSP\HW-Q950T-2.jpg" />
+    <Content Include="Images\HinhSP\HW-Q950T-3.jpg" />
+    <Content Include="Images\HinhSP\HW-Q950T.jpg" />
+    <Content Include="Images\HinhSP\HW-T420-1.jpg" />
+    <Content Include="Images\HinhSP\HW-T420-2.jpg" />
+    <Content Include="Images\HinhSP\HW-T420-3.jpg" />
+    <Content Include="Images\HinhSP\HW-T420.jpg" />
+    <Content Include="Images\HinhSP\icon_giohang.jpg" />
+    <Content Include="Images\HinhSP\icon_Kinhlup.png" />
+    <Content Include="Images\HinhSP\KD-49X8000H-1.jpg" />
+    <Content Include="Images\HinhSP\KD-49X8000H-2.jpg" />
+    <Content Include="Images\HinhSP\KD-49X8000H-3.jpg" />
+    <Content Include="Images\HinhSP\KD-49X8000H.jpg" />
+    <Content Include="Images\HinhSP\KD-65A9G-1.jpg" />
+    <Content Include="Images\HinhSP\KD-65A9G-2.jpg" />
+    <Content Include="Images\HinhSP\KD-65A9G-3.jpg" />
+    <Content Include="Images\HinhSP\KD-65A9G.jpg" />
+    <Content Include="Images\HinhSP\KD-65X7500H-1.jpg" />
+    <Content Include="Images\HinhSP\KD-65X7500H-2.jpg" />
+    <Content Include="Images\HinhSP\KD-65X7500H-3.jpg" />
+    <Content Include="Images\HinhSP\KD-65X7500H.jpg" />
+    <Content Include="Images\HinhSP\KDL-32W600D-1.jpg" />
+    <Content Include="Images\HinhSP\KDL-32W600D-2.jpg" />
+    <Content Include="Images\HinhSP\KDL-32W600D-3.jpg" />
+    <Content Include="Images\HinhSP\KDL-32W600D.jpg" />
+    <Content Include="Images\HinhSP\KG 70A2-1.jpg" />
+    <Content Include="Images\HinhSP\KG 70A2-2.jpg" />
+    <Content Include="Images\HinhSP\KG 70A2-3.jpg" />
+    <Content Include="Images\HinhSP\KG 70A2.jpg" />
+    <Content Include="Images\HinhSP\KG 72A2-1.jpg" />
+    <Content Include="Images\HinhSP\KG 72A2-2.jpg" />
+    <Content Include="Images\HinhSP\KG 72A2-3.jpg" />
+    <Content Include="Images\HinhSP\KG 72A2.jpg" />
+    <Content Include="Images\HinhSP\KG 73R2-1.jpg" />
+    <Content Include="Images\HinhSP\KG 73R2-2.jpg" />
+    <Content Include="Images\HinhSP\KG 73R2-3.jpg" />
+    <Content Include="Images\HinhSP\KG 73R2.jpg" />
+    <Content Include="Images\HinhSP\KG100EO-1.jpg" />
+    <Content Include="Images\HinhSP\KG100EO-2.jpg" />
+    <Content Include="Images\HinhSP\KG100EO-3.jpg" />
+    <Content Include="Images\HinhSP\KG100EO-4.jpg" />
+    <Content Include="Images\HinhSP\KG100EO.jpg" />
+    <Content Include="Images\HinhSP\KG100ES-1.jpg" />
+    <Content Include="Images\HinhSP\KG100ES-2.jpg" />
+    <Content Include="Images\HinhSP\KG100ES-3.jpg" />
+    <Content Include="Images\HinhSP\KG100ES-4.jpg" />
+    <Content Include="Images\HinhSP\KG100ES.jpg" />
+    <Content Include="Images\HinhSP\KG10A3-1.jpg" />
+    <Content Include="Images\HinhSP\KG10A3-2.jpg" />
+    <Content Include="Images\HinhSP\KG10A3-3.jpg" />
+    <Content Include="Images\HinhSP\KG10A3-4.jpg" />
+    <Content Include="Images\HinhSP\KG10A3.jpg" />
+    <Content Include="Images\HinhSP\KG3500AVTU-1.jpg" />
+    <Content Include="Images\HinhSP\KG3500AVTU-2.jpg" />
+    <Content Include="Images\HinhSP\KG3500AVTU-3.jpg" />
+    <Content Include="Images\HinhSP\KG3500AVTU-4.jpg" />
+    <Content Include="Images\HinhSP\KG3500AVTU.jpg" />
+    <Content Include="Images\HinhSP\KG408I-1.jpg" />
+    <Content Include="Images\HinhSP\KG408I-2.jpg" />
+    <Content Include="Images\HinhSP\KG408I-3.jpg" />
+    <Content Include="Images\HinhSP\KG408I.jpg" />
+    <Content Include="Images\HinhSP\KG438I-1.jpg" />
+    <Content Include="Images\HinhSP\KG438I-2.jpg" />
+    <Content Include="Images\HinhSP\KG438I-3.jpg" />
+    <Content Include="Images\HinhSP\KG438I.jpg" />
+    <Content Include="Images\HinhSP\logoDienMay.png" />
+    <Content Include="Images\HinhSP\logo_Layout.jpg" />
+    <Content Include="Images\HinhSP\MMB9208DIH-1.jpg" />
+    <Content Include="Images\HinhSP\MMB9208DIH-2.jpg" />
+    <Content Include="Images\HinhSP\MMB9208DIH-3.jpg" />
+    <Content Include="Images\HinhSP\MMB9208DIH.jpg" />
+    <Content Include="Images\HinhSP\NA-F100V5LRV-1.jpg" />
+    <Content Include="Images\HinhSP\NA-F100V5LRV-2.jpg" />
+    <Content Include="Images\HinhSP\NA-F100V5LRV-3.jpg" />
+    <Content Include="Images\HinhSP\NA-F100V5LRV.jpg" />
+    <Content Include="Images\HinhSP\NA-F80VS9GRV-1.jpg" />
+    <Content Include="Images\HinhSP\NA-F80VS9GRV-2.jpg" />
+    <Content Include="Images\HinhSP\NA-F80VS9GRV-3.jpg" />
+    <Content Include="Images\HinhSP\NA-F80VS9GRV.jpg" />
+    <Content Include="Images\HinhSP\NR-BA178PKV1-1.jpg" />
+    <Content Include="Images\HinhSP\NR-BA178PKV1-2.jpg" />
+    <Content Include="Images\HinhSP\NR-BA178PKV1-3.jpg" />
+    <Content Include="Images\HinhSP\NR-BA178PKV1.jpg" />
+    <Content Include="Images\HinhSP\NR-BV320GKVN-1.jpg" />
+    <Content Include="Images\HinhSP\NR-BV320GKVN-2.jpg" />
+    <Content Include="Images\HinhSP\NR-BV320GKVN-3.jpg" />
+    <Content Include="Images\HinhSP\NR-BV320GKVN.jpg" />
+    <Content Include="Images\HinhSP\NR-F603GT-X2-1.jpg" />
+    <Content Include="Images\HinhSP\NR-F603GT-X2-2.jpg" />
+    <Content Include="Images\HinhSP\NR-F603GT-X2-3.jpg" />
+    <Content Include="Images\HinhSP\NR-F603GT-X2.jpg" />
+    <Content Include="Images\HinhSP\QA43LS05T-1.jpg" />
+    <Content Include="Images\HinhSP\QA43LS05T-2.jpg" />
+    <Content Include="Images\HinhSP\QA43LS05T-3.jpg" />
+    <Content Include="Images\HinhSP\QA43LS05T.jpg" />
+    <Content Include="Images\HinhSP\RAS-H10DKCVG-V-1.jpg" />
+    <Content Include="Images\HinhSP\RAS-H10DKCVG-V-2.jpg" />
+    <Content Include="Images\HinhSP\RAS-H10DKCVG-V-3.jpg" />
+    <Content Include="Images\HinhSP\RAS-H10DKCVG-V.jpg" />
+    <Content Include="Images\HinhSP\RAS-H10U2KSG-V-1.jpg" />
+    <Content Include="Images\HinhSP\RAS-H10U2KSG-V-2.jpg" />
+    <Content Include="Images\HinhSP\RAS-H10U2KSG-V-3.jpg" />
+    <Content Include="Images\HinhSP\RAS-H10U2KSG-V.jpg" />
+    <Content Include="Images\HinhSP\RAS-H13PKCVG-V-1.jpg" />
+    <Content Include="Images\HinhSP\RAS-H13PKCVG-V-2.jpg" />
+    <Content Include="Images\HinhSP\RAS-H13PKCVG-V-3.jpg" />
+    <Content Include="Images\HinhSP\RAS-H13PKCVG-V.jpg" />
+    <Content Include="Images\HinhSP\RB30N4170BUSV-1.jpg" />
+    <Content Include="Images\HinhSP\RB30N4170BUSV-2.jpg" />
+    <Content Include="Images\HinhSP\RB30N4170BUSV-3.jpg" />
+    <Content Include="Images\HinhSP\RB30N4170BUSV.jpg" />
+    <Content Include="Images\HinhSP\RF56K9041SGSV-1.jpg" />
+    <Content Include="Images\HinhSP\RF56K9041SGSV-2.jpg" />
+    <Content Include="Images\HinhSP\RF56K9041SGSV-3.jpg" />
+    <Content Include="Images\HinhSP\RF56K9041SGSV.jpg" />
+    <Content Include="Images\HinhSP\RM1-1.jpg" />
+    <Content Include="Images\HinhSP\RM1-2.jpg" />
+    <Content Include="Images\HinhSP\RM1-3.jpg" />
+    <Content Include="Images\HinhSP\RM1.jpg" />
+    <Content Include="Images\HinhSP\S3RF-1.jpg" />
+    <Content Include="Images\HinhSP\S3RF-2.jpg" />
+    <Content Include="Images\HinhSP\S3RF-3.jpg" />
+    <Content Include="Images\HinhSP\S3RF.jpg" />
+    <Content Include="Images\HinhSP\SHA76213CK-1.jpg" />
+    <Content Include="Images\HinhSP\SHA76213CK-2.jpg" />
+    <Content Include="Images\HinhSP\SHA76213CK-3.jpg" />
+    <Content Include="Images\HinhSP\SHA76213CK-4.jpg" />
+    <Content Include="Images\HinhSP\SHA76213CK.jpg" />
+    <Content Include="Images\HinhSP\SHA8817KP-1.jpg" />
+    <Content Include="Images\HinhSP\SHA8817KP-2.jpg" />
+    <Content Include="Images\HinhSP\SHA8817KP-3.jpg" />
+    <Content Include="Images\HinhSP\SHA8817KP-4.jpg" />
+    <Content Include="Images\HinhSP\SHA8817KP.jpg" />
+    <Content Include="Images\HinhSP\SHB9101-1.jpg" />
+    <Content Include="Images\HinhSP\SHB9101-2.jpg" />
+    <Content Include="Images\HinhSP\SHB9101-3.jpg" />
+    <Content Include="Images\HinhSP\SHB9101.jpg" />
+    <Content Include="Images\HinhSP\SHB9104MT-1.jpg" />
+    <Content Include="Images\HinhSP\SHB9104MT-2.jpg" />
+    <Content Include="Images\HinhSP\SHB9104MT-3.jpg" />
+    <Content Include="Images\HinhSP\SHB9104MT.jpg" />
+    <Content Include="Images\HinhSP\SHB9105MT-1.jpg" />
+    <Content Include="Images\HinhSP\SHB9105MT-2.jpg" />
+    <Content Include="Images\HinhSP\SHB9105MT-3.jpg" />
+    <Content Include="Images\HinhSP\SHB9105MT.jpg" />
+    <Content Include="Images\HinhSP\SHD 6861-1.jpg" />
+    <Content Include="Images\HinhSP\SHD 6861-2.jpg" />
+    <Content Include="Images\HinhSP\SHD 6861-3.jpg" />
+    <Content Include="Images\HinhSP\SHD 6861.jpg" />
+    <Content Include="Images\HinhSP\SHD6149-1.jpg" />
+    <Content Include="Images\HinhSP\SHD6149-2.jpg" />
+    <Content Include="Images\HinhSP\SHD6149-3.jpg" />
+    <Content Include="Images\HinhSP\SHD6149.jpg" />
+    <Content Include="Images\HinhSP\SHR-F2272W2-1.jpg" />
+    <Content Include="Images\HinhSP\SHR-F2272W2-2.jpg" />
+    <Content Include="Images\HinhSP\SHR-F2272W2-3.jpg" />
+    <Content Include="Images\HinhSP\SHR-F2272W2.jpg" />
+    <Content Include="Images\HinhSP\SHR-F2362W2-1.jpg" />
+    <Content Include="Images\HinhSP\SHR-F2362W2-2.jpg" />
+    <Content Include="Images\HinhSP\SHR-F2362W2-3.jpg" />
+    <Content Include="Images\HinhSP\SHR-F2362W2.jpg" />
+    <Content Include="Images\HinhSP\SHR-F2472W2-1.jpg" />
+    <Content Include="Images\HinhSP\SHR-F2472W2-2.jpg" />
+    <Content Include="Images\HinhSP\SHR-F2472W2-3.jpg" />
+    <Content Include="Images\HinhSP\SHR-F2472W2.jpg" />
+    <Content Include="Images\HinhSP\SHR76210CK-1.jpg" />
+    <Content Include="Images\HinhSP\SHR76210CK-2.jpg" />
+    <Content Include="Images\HinhSP\SHR76210CK-3.jpg" />
+    <Content Include="Images\HinhSP\SHR76210CK-4.jpg" />
+    <Content Include="Images\HinhSP\SHR76210CK.jpg" />
+    <Content Include="Images\HinhSP\SN8Y-1.jpg" />
+    <Content Include="Images\HinhSP\SN8Y-2.jpg" />
+    <Content Include="Images\HinhSP\SN8Y-3.jpg" />
+    <Content Include="Images\HinhSP\SN8Y.jpg" />
+    <Content Include="Images\HinhSP\TWP-W1643SV%28W%29-1.jpg" />
+    <Content Include="Images\HinhSP\TWP-W1643SV%28W%29-2.jpg" />
+    <Content Include="Images\HinhSP\TWP-W1643SV%28W%29-3.jpg" />
+    <Content Include="Images\HinhSP\TWP-W1643SV%28W%29-4.jpg" />
+    <Content Include="Images\HinhSP\TWP-W1643SV%28W%29.jpg" />
+    <Content Include="Images\HinhSP\UA43T6500-1.jpg" />
+    <Content Include="Images\HinhSP\UA43T6500-2.jpg" />
+    <Content Include="Images\HinhSP\UA43T6500-3.jpg" />
+    <Content Include="Images\HinhSP\UA43T6500.jpg" />
+    <Content Include="Images\HinhSP\UA50TU8100-1.jpg" />
+    <Content Include="Images\HinhSP\UA50TU8100-2.jpg" />
+    <Content Include="Images\HinhSP\UA50TU8100-3.jpg" />
+    <Content Include="Images\HinhSP\UA50TU8100.jpg" />
+    <Content Include="Images\HinhSP\V10ENF-1.jpg" />
+    <Content Include="Images\HinhSP\V10ENF-2.jpg" />
+    <Content Include="Images\HinhSP\V10ENF-3.jpg" />
+    <Content Include="Images\HinhSP\V10ENF.jpg" />
+    <Content Include="Images\HinhSP\VTU KG08-1.jpg" />
+    <Content Include="Images\HinhSP\VTU KG08-2.jpg" />
+    <Content Include="Images\HinhSP\VTU KG08-3.jpg" />
+    <Content Include="Images\HinhSP\VTU KG08-4.jpg" />
+    <Content Include="Images\HinhSP\VTU KG08.jpg" />
+    <Content Include="Images\HinhSP\WD10N64FR2WSV-1.jpg" />
+    <Content Include="Images\HinhSP\WD10N64FR2WSV-2.jpg" />
+    <Content Include="Images\HinhSP\WD10N64FR2WSV-3.jpg" />
+    <Content Include="Images\HinhSP\WD10N64FR2WSV.jpg" />
+    <Content Include="Images\HinhSP\WD10N64FR2XSV-1.jpg" />
+    <Content Include="Images\HinhSP\WD10N64FR2XSV-2.jpg" />
+    <Content Include="Images\HinhSP\WD10N64FR2XSV-3.jpg" />
+    <Content Include="Images\HinhSP\WD10N64FR2XSV.jpg" />
+    <Content Include="Images\HinhSP\WD19N8750KVSV-1.jpg" />
+    <Content Include="Images\HinhSP\WD19N8750KVSV-2.jpg" />
+    <Content Include="Images\HinhSP\WD19N8750KVSV-3.jpg" />
+    <Content Include="Images\HinhSP\WD19N8750KVSV.jpg" />
+    <Content Include="Images\HinhSP\WD95J5410AWSV-1.jpg" />
+    <Content Include="Images\HinhSP\WD95J5410AWSV-2.jpg" />
+    <Content Include="Images\HinhSP\WD95J5410AWSV-3.jpg" />
+    <Content Include="Images\HinhSP\WD95J5410AWSV.jpg" />
+    <Content Include="Images\HinhSP\WD95K5410OXSV-1.jpg" />
+    <Content Include="Images\HinhSP\WD95K5410OXSV-2.jpg" />
+    <Content Include="Images\HinhSP\WD95K5410OXSV-3.jpg" />
+    <Content Include="Images\HinhSP\WD95K5410OXSV.jpg" />
+    <Content Include="Images\icon_Eyes.jpg" />
+    <Content Include="Images\karaoke_image.jfif" />
+    <Content Include="Images\logoDienMay.png" />
+    <Content Include="Images\Save-icon.png" />
+    <Content Include="Images\server-information-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\txtChiNhapSoThuc\txtChiNhapSoThuc.csproj">
+      <Project>{13F51EEF-FC52-4A04-B130-91F84541C647}</Project>
+      <Name>txtChiNhapSoThuc</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\txtChiNhapSo\txtChiNhapSo.csproj">
+      <Project>{6689D570-2DEE-4E02-A334-62A0A24519DD}</Project>
+      <Name>txtChiNhapSo</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

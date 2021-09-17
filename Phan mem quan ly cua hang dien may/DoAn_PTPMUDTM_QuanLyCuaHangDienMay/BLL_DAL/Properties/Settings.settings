@@ -1,0 +1,49 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BLL_DAL.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DOANPTPMUNGDUNGTHONGMINH_QUANLYCUAHANGDIENMAYConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=LAPTOP-1LO8U7LN\SQLEXPRESS;Initial Catalog=DOANPTPMUNGDUNGTHONGMINH_QUANLYCUAHANGDIENMAY;User ID=sa;Password=nguyen114814&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=LAPTOP-1LO8U7LN\SQLEXPRESS;Initial Catalog=DOANPTPMUNGDUNGTHONGMINH_QUANLYCUAHANGDIENMAY;User ID=sa;Password=nguyen114814</Value>
+    </Setting>
+    <Setting Name="QNConnection" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DOANPTPMUNGDUNGTHONGMINH_QUANLYCUAHANGDIENMAYConnectionString1" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=DESKTOP-M1FML9B\SQLEXPRESS;Initial Catalog=DOANPTPMUNGDUNGTHONGMINH_QUANLYCUAHANGDIENMAY;Integrated Security=True&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=DESKTOP-M1FML9B\SQLEXPRESS;Initial Catalog=DOANPTPMUNGDUNGTHONGMINH_QUANLYCUAHANGDIENMAY;Integrated Security=True</Value>
+    </Setting>
+    <Setting Name="DOANPTPMUNGDUNGTHONGMINH_QUANLYCUAHANGDIENMAYConnectionString2" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=DESKTOP-M1FML9B\SQLEXPRESS;Initial Catalog=DOANPTPMUNGDUNGTHONGMINH_QUANLYCUAHANGDIENMAY;Persist Security Info=True;User ID=sa;Password=20052000&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=DESKTOP-M1FML9B\SQLEXPRESS;Initial Catalog=DOANPTPMUNGDUNGTHONGMINH_QUANLYCUAHANGDIENMAY;Persist Security Info=True;User ID=sa;Password=20052000</Value>
+    </Setting>
+    <Setting Name="DOANPTPMUNGDUNGTHONGMINH_QUANLYCUAHANGDIENMAYConnectionString3" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=LAPTOP-1LO8U7LN\SQLEXPRESS;Initial Catalog=DOANPTPMUNGDUNGTHONGMINH_QUANLYCUAHANGDIENMAY;Persist Security Info=True;User ID=sa;Password=nguyen114814&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=LAPTOP-1LO8U7LN\SQLEXPRESS;Initial Catalog=DOANPTPMUNGDUNGTHONGMINH_QUANLYCUAHANGDIENMAY;Persist Security Info=True;User ID=sa;Password=nguyen114814</Value>
+    </Setting>
+    <Setting Name="DOANPTPMUNGDUNGTHONGMINH_QUANLYCUAHANGDIENMAYConnectionString4" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=DESKTOP-M1FML9B\SQLEXPRESS;Initial Catalog=DOANPTPMUNGDUNGTHONGMINH_QUANLYCUAHANGDIENMAY;User ID=sa;Password=20052000&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=DESKTOP-M1FML9B\SQLEXPRESS;Initial Catalog=DOANPTPMUNGDUNGTHONGMINH_QUANLYCUAHANGDIENMAY;User ID=sa;Password=20052000</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

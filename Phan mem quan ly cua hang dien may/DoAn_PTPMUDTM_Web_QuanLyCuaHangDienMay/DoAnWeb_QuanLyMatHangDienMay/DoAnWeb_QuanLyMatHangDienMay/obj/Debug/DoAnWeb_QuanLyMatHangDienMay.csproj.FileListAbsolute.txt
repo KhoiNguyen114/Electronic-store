@@ -1,0 +1,90 @@
+E:\Cong nghe Web\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\DoAnWeb_QuanLyMatHangDienMay.dll
+E:\Cong nghe Web\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\DoAnWeb_QuanLyMatHangDienMay.pdb
+E:\Cong nghe Web\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\Antlr3.Runtime.dll
+E:\Cong nghe Web\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\EntityFramework.dll
+E:\Cong nghe Web\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\Microsoft.Web.Infrastructure.dll
+E:\Cong nghe Web\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\Newtonsoft.Json.dll
+E:\Cong nghe Web\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Web.Mvc.dll
+E:\Cong nghe Web\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Web.Optimization.dll
+E:\Cong nghe Web\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Web.Providers.dll
+E:\Cong nghe Web\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Web.Razor.dll
+E:\Cong nghe Web\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Web.WebPages.Deployment.dll
+E:\Cong nghe Web\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Web.WebPages.dll
+E:\Cong nghe Web\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Web.WebPages.Razor.dll
+E:\Cong nghe Web\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\WebGrease.dll
+E:\Cong nghe Web\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\EntityFramework.xml
+E:\Cong nghe Web\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\Newtonsoft.Json.xml
+E:\Cong nghe Web\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Web.Mvc.xml
+E:\Cong nghe Web\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Web.Razor.xml
+E:\Cong nghe Web\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Web.WebPages.xml
+E:\Cong nghe Web\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Web.WebPages.Deployment.xml
+E:\Cong nghe Web\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Web.WebPages.Razor.xml
+E:\Cong nghe Web\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\obj\Debug\DoAnWeb_QuanLyMatHangDienMay.csprojResolveAssemblyReference.cache
+E:\Cong nghe Web\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\obj\Debug\DoAnWeb_QuanLyMatHangDienMay.dll
+E:\Cong nghe Web\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\obj\Debug\DoAnWeb_QuanLyMatHangDienMay.pdb
+E:\Phat trien phan mem va ung dung thong minh\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\DoAnWeb_QuanLyMatHangDienMay.dll.config
+E:\Phat trien phan mem va ung dung thong minh\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\DoAnWeb_QuanLyMatHangDienMay.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\DoAnWeb_QuanLyMatHangDienMay.pdb
+E:\Phat trien phan mem va ung dung thong minh\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\Antlr3.Runtime.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\EntityFramework.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\Microsoft.Web.Infrastructure.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\Newtonsoft.Json.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Net.Http.Formatting.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Web.Http.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Web.Http.WebHost.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Web.Mvc.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Web.Optimization.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Web.Providers.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Web.Razor.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Web.WebPages.Deployment.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Web.WebPages.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Web.WebPages.Razor.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\WebGrease.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\EntityFramework.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\Newtonsoft.Json.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Net.Http.Formatting.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Web.Http.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Web.Http.WebHost.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Web.Mvc.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Web.Razor.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Web.WebPages.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Web.WebPages.Deployment.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Web.WebPages.Razor.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\obj\Debug\DoAnWeb_QuanLyMatHangDienMay.csproj.CoreCompileInputs.cache
+E:\Phat trien phan mem va ung dung thong minh\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\obj\Debug\DoAnWeb_QuanLyMatHangDienMay.csproj.CopyComplete
+E:\Phat trien phan mem va ung dung thong minh\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\obj\Debug\DoAnWeb_QuanLyMatHangDienMay.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\obj\Debug\DoAnWeb_QuanLyMatHangDienMay.pdb
+E:\Phat trien phan mem va ung dung thong minh\DoAnWeb_CuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\obj\Debug\DoAnWeb_QuanLyMatHangDienMay.csproj.AssemblyReference.cache
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM_Web_QuanLyCuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\DoAnWeb_QuanLyMatHangDienMay.dll.config
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM_Web_QuanLyCuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\DoAnWeb_QuanLyMatHangDienMay.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM_Web_QuanLyCuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\DoAnWeb_QuanLyMatHangDienMay.pdb
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM_Web_QuanLyCuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\Antlr3.Runtime.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM_Web_QuanLyCuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\EntityFramework.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM_Web_QuanLyCuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\Microsoft.Web.Infrastructure.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM_Web_QuanLyCuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\Newtonsoft.Json.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM_Web_QuanLyCuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Net.Http.Formatting.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM_Web_QuanLyCuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Web.Http.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM_Web_QuanLyCuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Web.Http.WebHost.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM_Web_QuanLyCuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Web.Mvc.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM_Web_QuanLyCuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Web.Optimization.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM_Web_QuanLyCuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Web.Providers.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM_Web_QuanLyCuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Web.Razor.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM_Web_QuanLyCuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Web.WebPages.Deployment.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM_Web_QuanLyCuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Web.WebPages.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM_Web_QuanLyCuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Web.WebPages.Razor.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM_Web_QuanLyCuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\WebGrease.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM_Web_QuanLyCuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\EntityFramework.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM_Web_QuanLyCuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\Newtonsoft.Json.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM_Web_QuanLyCuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Net.Http.Formatting.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM_Web_QuanLyCuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Web.Http.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM_Web_QuanLyCuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Web.Http.WebHost.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM_Web_QuanLyCuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Web.Mvc.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM_Web_QuanLyCuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Web.Razor.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM_Web_QuanLyCuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Web.WebPages.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM_Web_QuanLyCuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Web.WebPages.Deployment.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM_Web_QuanLyCuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\bin\System.Web.WebPages.Razor.xml
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM_Web_QuanLyCuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\obj\Debug\DoAnWeb_QuanLyMatHangDienMay.csproj.AssemblyReference.cache
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM_Web_QuanLyCuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\obj\Debug\DoAnWeb_QuanLyMatHangDienMay.csproj.CoreCompileInputs.cache
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM_Web_QuanLyCuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\obj\Debug\DoAnWeb_QuanLyMatHangDienMay.csproj.CopyComplete
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM_Web_QuanLyCuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\obj\Debug\DoAnWeb_QuanLyMatHangDienMay.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM_Web_QuanLyCuaHangDienMay\DoAnWeb_QuanLyMatHangDienMay\DoAnWeb_QuanLyMatHangDienMay\obj\Debug\DoAnWeb_QuanLyMatHangDienMay.pdb

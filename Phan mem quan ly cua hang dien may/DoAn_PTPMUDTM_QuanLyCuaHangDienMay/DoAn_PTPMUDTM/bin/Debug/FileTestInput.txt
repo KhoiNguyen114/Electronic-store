@@ -1,0 +1,6 @@
+﻿Tivi,4k,23 inch,SamSung,Từ 10 đến 15 triệu,SP002
+Tivi,8k,26 inch,LG,Từ 5 đến 8 triệu,SP002
+Tivi,2k,32 inch,Toshiba,Trên 15 triệu,SP002
+Tivi,4k,23 inch,SamSung,Trên 20 triệu,SP002
+Máy lạnh,700W,Công nghệ làm lạnh Selenium,LG,Từ 5 đến 7 triệu,SP040
+Loa,Loa thùng,Khối lượng nhẹ và âm thanh bass cực tốt,Daikin,Từ 1 đến 3 triệu,SP075

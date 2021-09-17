@@ -1,0 +1,11 @@
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\txtChiNhapSoThuc\bin\Debug\txtChiNhapSoThuc.dll
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\txtChiNhapSoThuc\bin\Debug\txtChiNhapSoThuc.pdb
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\txtChiNhapSoThuc\obj\Debug\txtChiNhapSoThuc.csproj.CoreCompileInputs.cache
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\txtChiNhapSoThuc\obj\Debug\txtChiNhapSoThuc.dll
+C:\Users\QQQs\Desktop\DoAn_PTPM&UDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\txtChiNhapSoThuc\obj\Debug\txtChiNhapSoThuc.pdb
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\txtChiNhapSoThuc\bin\Debug\txtChiNhapSoThuc.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\txtChiNhapSoThuc\bin\Debug\txtChiNhapSoThuc.pdb
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\txtChiNhapSoThuc\obj\Debug\txtChiNhapSoThuc.csproj.AssemblyReference.cache
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\txtChiNhapSoThuc\obj\Debug\txtChiNhapSoThuc.csproj.CoreCompileInputs.cache
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\txtChiNhapSoThuc\obj\Debug\txtChiNhapSoThuc.dll
+E:\Phat trien phan mem va ung dung thong minh\DoAn_PTPMUDTM\DoAn_PTPMUDTM\DoAn_PTPMUDTM\txtChiNhapSoThuc\obj\Debug\txtChiNhapSoThuc.pdb

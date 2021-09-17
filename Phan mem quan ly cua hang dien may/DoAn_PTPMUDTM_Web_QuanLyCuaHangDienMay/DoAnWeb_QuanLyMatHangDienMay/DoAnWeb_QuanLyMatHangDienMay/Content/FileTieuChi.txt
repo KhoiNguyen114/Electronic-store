@@ -1,0 +1,10 @@
+﻿Tivi,Độ phân giải,Kích thước,Thương hiệu,Tài chính
+Tủ lạnh,Kiểu tủ,Dung tích,Thương hiệu,Tài chính
+Máy giặt,Loại máy giặt,Khối lượng giặt,Thương hiệu,Tài chính
+Loa,Loại loa,Tiện ích,Thương hiệu,Tài chính
+Máy lạnh,Công suất làm lạnh,Công nghệ làm lạnh,Thương hiệu,Tài chính
+Máy lọc nước,Kiểu tủ,Loại tủ,Thương hiệu,Tài chính
+Máy sấy,Loại máy,Khối lượng máy,Thương hiệu,Tài chính
+Tủ đông,Loại tủ,Dung tích,Thương hiệu,Tài chính
+Bếp từ,Loại bếp,Tiện ích,Thương hiệu,Tài chính
+Máy nước nóng,Loại máy,Dung tích,Thương hiệu,Tài chính
